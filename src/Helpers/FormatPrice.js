@@ -1,7 +1,7 @@
 const FormatPrice = ({ price }) => {
   return Intl.NumberFormat("en-IN", {
     style: "currency",
-    currency: "INR",
+    currency: "ETB",
     maximumFractionDigits: 2,
   }).format(price / 100);
 };

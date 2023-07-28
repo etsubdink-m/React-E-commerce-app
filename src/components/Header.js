@@ -9,7 +9,7 @@ const Header = () => {
       <NavLink to="/">
       
       
-      <h2><img className="logo" src="https://cdn.shopify.com/s/files/1/0566/0839/1368/files/overlay_small_logo_b26282df-c7f1-44c3-9299-52b939f876ea.png?v=1650558069" alt="my logo img" /><b>Apna Store </b></h2>
+      <h2><img className="logo" src="https://cdn.shopify.com/s/files/1/0566/0839/1368/files/overlay_small_logo_b26282df-c7f1-44c3-9299-52b939f876ea.png?v=1650558069" alt="my logo img" /><b>Yemi Store </b></h2>
       </NavLink>
       
       <Nav />
